@@ -1,3 +1,7 @@
+#nav {
+	float: none;
+	margin: 0;
+}
 #nav li a {
 	font-size: 130%;
 	font-weight: normal;
