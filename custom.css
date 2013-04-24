@@ -10,6 +10,9 @@
 }
 h1#logo,
 h1#logo a { max-width: none; }
+#search-wrap { float: right; }
+#search-form { margin-top: 0; }
+
 
 /* Navigation */
 #nav {
