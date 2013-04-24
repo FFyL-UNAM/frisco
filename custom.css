@@ -1,5 +1,16 @@
 /* Header */
 #header #search-bar { background: #1B6DAD }
+#logo { text-indent: -9999px; }
+#logo a {
+	display: block;
+	margin: .5em 0;
+	background: url(images/logo.png) no-repeat;
+	width: 598px;
+	height: 105px;
+}
+#logo,
+#logo a { max-width: none; }
+
 /* Navigation */
 #nav {
 	float: none;
