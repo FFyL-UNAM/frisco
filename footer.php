@@ -11,6 +11,11 @@
 		      Humanidades Digitales Hispánicas
 		    </a>
 		  </li>
+		  <li class="fcsh">
+		    <a href="http://www.fcsh.unl.pt">
+		      Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
+		    </a>
+		  </li>
 		</ul>
 	</div>
 </div>
