@@ -9,3 +9,5 @@
     </a>
   </li>
 </ul>
+
+<?php wp_footer();?>
