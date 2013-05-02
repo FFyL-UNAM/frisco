@@ -1,4 +1,4 @@
-
+</div>
 <div id="bp-before-footer" class="fullwidth">
 	<div id="footer">
 		<ul class="partners">
