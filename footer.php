@@ -20,8 +20,8 @@
         <a href="http://www.usp.br" rel="external nofollow">
           Universidade de São Paulo
         </a>
-      </li><li class="brasiliana" rel="external nofollow">
-        <a href="http://www.brasiliana.usp.br">
+      </li><li class="brasiliana">
+        <a href="http://www.brasiliana.usp.br" rel="external nofollow">
           Biblioteca Brasiliana Guita e José Mindlin
         </a>
       </li>
