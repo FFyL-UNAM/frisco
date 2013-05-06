@@ -3,28 +3,29 @@
   <div id="footer">
     <ul class="partners">
       <li class="redhd">
-        <a href="http://www.humanidadesdigitales.net">
-          Humanidades Digitales</a>
+        <a href="http://www.humanidadesdigitales.net" rel="external nofollow">
+          Humanidades Digitales
+        </a>
       </li>
       <li class="hdh">
-        <a href="http://hdh2013.humanidadesdigitales.org">
+        <a href="http://hdh2013.humanidadesdigitales.org" rel="external nofollow">
           Humanidades Digitales Hispánicas
         </a>
       </li>
       <li class="fcsh">
-        <a href="http://www.fcsh.unl.pt">
+        <a href="http://www.fcsh.unl.pt" rel="external nofollow">
           Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
         </a>
       </li>
       <li class="fcsh">
-        <a href="http://www.fcsh.unl.pt">
+        <a href="http://www.fcsh.unl.pt" rel="external nofollow">
           Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
         </a>
       </li><li class="usp">
-        <a href="http://www.usp.br">
+        <a href="http://www.usp.br" rel="external nofollow">
           Universidade de São Paulo
         </a>
-      </li><li class="brasiliana">
+      </li><li class="brasiliana" rel="external nofollow">
         <a href="http://www.brasiliana.usp.br">
           Biblioteca Brasiliana Guita e José Mindlin
         </a>
