@@ -16,11 +16,6 @@
         <a href="http://www.fcsh.unl.pt" rel="external nofollow">
           Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
         </a>
-      </li>
-      <li class="fcsh">
-        <a href="http://www.fcsh.unl.pt" rel="external nofollow">
-          Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
-        </a>
       </li><li class="usp">
         <a href="http://www.usp.br" rel="external nofollow">
           Universidade de São Paulo
