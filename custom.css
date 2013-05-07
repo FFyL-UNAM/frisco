@@ -34,7 +34,7 @@ ul.partners {
 }
 ul.partners li {
   float: left;
-  margin-left: 24px;
+  margin-left: 60px;
 }
 ul.partners li:first-child {
   margin-left: 0px;
@@ -43,27 +43,21 @@ ul.partners li a {
   text-indent: -9999px;
   display: block;
   background: url(images/sprite-logos.png) no-repeat;
-  height: 41px;
+  height: 51px;
 }
 ul.partners li.redhd a {
-  width: 142px;
+  width: 177px;
   background-position: 0 0;
 }
 ul.partners li.hdh a {
-  width: 128px;
-  background-position: 0 -40px;
+  width: 160px;
+  background-position: 0 -50px;
 }
 ul.partners li.fcsh a {
-  width: 245px;
-  background-position: 0 -81px;
+  width: 305px;
+  background-position: 0 -101px;
 }
 ul.partners li.usp a {
-  width: 98px;
-  background-position: 0 -122px;
-}
-ul.partners li.brasiliana a {
-  margin-top: 10px;
-  width: 245px;
-  height: 17px;
-  background-position: 0 -163px;
+  width: 122px;
+  background-position: 0 -152px;
 }
