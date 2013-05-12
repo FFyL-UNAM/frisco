@@ -87,7 +87,7 @@ ul.partners li.usp a {
 /* Media Queries Overrides */
 
 /* Mobile */
-@media (max-width: 480px) {
+@media only screen and (max-width: 767px) {
   h2.posttitle {
     font-size: 2em;
   }
