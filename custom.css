@@ -83,3 +83,15 @@ ul.partners li.usp a {
   width: 122px;
   background-position: 0 -152px;
 }
+
+/* Media Queries Overrides */
+
+/* Mobile */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  h2.posttitle {
+    font-size: 2em;
+  }
+  div.post-content {
+    margin-left: 0;
+  }
+}
