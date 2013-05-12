@@ -88,6 +88,9 @@ ul.partners li.usp a {
 
 /* Mobile */
 @media only screen and (max-width: 767px) {
+  .blog #blog-latest .post {
+    padding: 0;
+  }
   h2.posttitle {
     font-size: 2em;
   }
