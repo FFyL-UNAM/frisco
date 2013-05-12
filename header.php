@@ -18,7 +18,18 @@
 		<div id="header">
 			<div id="search-bar" role="search">
 				<div class="padder">
-					<h1 id="logo" role="banner"><a href="<?php echo home_url(); ?>" title="<?php _ex( 'Home', 'Home page banner link title', 'buddypress' ); ?>"><?php bp_site_name(); ?></a></h1>
+					<h1 id="logo" role="banner">
+						<a href="<?php echo home_url(); ?>" title="<?php _ex( 'Home', 'Home page banner link title', 'buddypress' ); ?>">
+							<?php 
+								$logo = get_template_directory_uri() . '/images/logo.png';
+								if( file_exists($logo) ) {
+									print '<img src="'. $logo .'" alt="'. get_bloginfo('name') .'">';
+								} else {
+									bp_site_name();
+								}
+							?>
+						</a>
+					</h1>
 				</div><!-- .padder -->
 			</div><!-- #search-bar -->
 
