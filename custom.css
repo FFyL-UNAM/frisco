@@ -97,4 +97,11 @@ ul.partners li.usp a {
   div.post-content {
     margin-left: 0;
   }
+  ul.partners li {
+    float: none;
+    margin-left: 0;
+  }
+  ul.partners li a {
+    margin: 0 auto 20px auto;
+  }
 }
