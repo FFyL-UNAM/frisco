@@ -23,7 +23,7 @@
 							<?php 
 								$logo = '/images/logo.png';
 								if( file_exists(get_stylesheet_directory() . $logo) ) {
-									print '<img src="'. get_template_directory_uri() . $logo .'" alt="'. get_bloginfo('name') .'">';
+									print '<img src="'. get_stylesheet_directory_uri() . $logo .'" alt="'. get_bloginfo('name') .'">';
 								} else {
 									bp_site_name();
 								}
