@@ -21,9 +21,9 @@
 					<h1 id="logo" role="banner">
 						<a href="<?php echo home_url(); ?>" title="<?php _ex( 'Home', 'Home page banner link title', 'buddypress' ); ?>">
 							<?php 
-								$logo = get_template_directory_uri() . '/images/logo.png';
-								if( file_exists($logo) ) {
-									print '<img src="'. $logo .'" alt="'. get_bloginfo('name') .'">';
+								$logo = '/images/logo.png';
+								if( file_exists(get_stylesheet_directory() . $logo) ) {
+									print '<img src="'. get_template_directory_uri() . $logo .'" alt="'. get_bloginfo('name') .'">';
 								} else {
 									bp_site_name();
 								}
